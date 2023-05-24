@@ -8,7 +8,7 @@
 
 **Packages (installed with NPM):**
 
-:white*check_mark: fetch *(no need to install if you use Node v17 and higher)\_
+:white_check_mark: fetch *(no need to install if you use Node v17 and higher)*
 
 :white_check_mark: fs
 
